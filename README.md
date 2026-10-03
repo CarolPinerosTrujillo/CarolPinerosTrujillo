@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=57E389&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=120&section=header"/>
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=57E389&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Carol+Pi%C3%B1eros+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%26+Spring+Boot;De+motores+a+microservicios" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=4C1D95&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Carol+Pi%C3%B1eros+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%26+Spring+Boot" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Full Stack Java Jr </h3>
