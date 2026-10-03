@@ -88,9 +88,7 @@ Apasionada por construir aplicaciones de principio a fin, conectando la lógica 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolPinerosTrujillo&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CarolPinerosTrujillo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</p>
+
 
 ---
 
@@ -101,5 +99,5 @@ Apasionada por construir aplicaciones de principio a fin, conectando la lógica 
 ---
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=57E389&height=100&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=100&section=footer"/>
 </p>
